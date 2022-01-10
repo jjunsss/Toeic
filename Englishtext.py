@@ -42,7 +42,7 @@ while 1:
     try:
         answer = ['1형식', '2형식', '4형식', '5형식 형용사', '5형식 부정사']
         choice = total[num]
-        print(complict)
+        
         if choice in complict:
             continue
         else:
